@@ -2,7 +2,7 @@
 
 I am a Software Engineer with a passion for frontend/web development technologies. Experienced with React, Redux, Javascript and frontend architecture design efforts.
 
-I am returning to the job market after a personal sabbatical and am actively looking for frontend/full-stack opportunities.
+I am currently an SEII at Chewy! I am a fullstack engineer on the Sponsored Ads Data Team.
 
 <!--
 **DNNYVST/DNNYVST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
